@@ -1,0 +1,17 @@
+{
+    "name": "ilyukdim/otus-composer-package",
+    "description": "first symbol up",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ilyukdim\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilyukdim",
+            "email": "ilyukdim@ilyukdim.exp"
+        }
+    ],
+    "require": {}
+}

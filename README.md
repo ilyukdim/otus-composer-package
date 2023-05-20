@@ -7,7 +7,7 @@
 
 ## Установка
 ```bash
-$composer require....
+$ composer require ilyukdim/otus-composer-package
 ```
 
 ## Использование
