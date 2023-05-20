@@ -15,5 +15,5 @@ $ composer require ilyukdim/otus-composer-package
 ```php
 <?php
 $processor = new Ilyukdim\OtusComposerPackage\StringProcessor();
-echo $processor->getFirstSymbolUp("000 И это мой first symbol up");
+echo $processor->getFirstSymbolUp("000 и это мой first symbol up");
 ```
